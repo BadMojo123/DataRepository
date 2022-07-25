@@ -2,7 +2,7 @@
 List of datasets used in simulations
 
 
-1. OandaPdData + time span + instrument + denominated curency
+1. OandaPdData + time span + instrument + denominated curency \n
 data dolumns:
 Date;Close;closeBid;complete;High;highBid;Low;lowBid;Open;openBid;Volume
 sample:
